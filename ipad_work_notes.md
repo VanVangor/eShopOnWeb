@@ -11,6 +11,7 @@
 ### Devices
 - Sandy has a **Windows laptop**.
 - Going forward we will use **Sandy’s iPad** (suspected less likely to get compromised than the laptop).
+- **Problem:** Unable to authenticate to Amazon in **Chrome on Sandy’s Windows PC** (details of error TBD). Prefer not to weaken 2SV to make the PC work; keep using iPad until PC is trusted again.
 
 ### Contact (Sandy)
 - Mobile: **941-468-4783** (used for Amazon 2-step verification)
@@ -53,6 +54,15 @@
 
 ### Open / next steps
 - Prefer all recovery steps and account access from Sandy’s iPad, not the Windows laptop.
+- Diagnose Windows Chrome Amazon login failure (see troubleshooting below); treat PC as possibly still compromised.
 - Configure skouba1@verizon.net on the iPad (AOL app preferred).
 - Optional: review Subscribe & Save / Household; confirm Login & security phone is 941-468-4783.
 - Ask Amazon for a case/reference number if still useful for the open recovery thread.
+
+### Troubleshooting: Amazon login fails in Chrome on Windows PC
+1. **Do not** turn off 2SV or reuse old passwords to “fix” the PC.
+2. Note the exact failure: wrong password? 2SV code never accepted? blank/spin? “unusual activity”? redirected?
+3. On the PC, try **Edge InPrivate** (or Chrome Incognito with extensions disabled) to amazon.com — if Edge works and Chrome doesn’t, suspect Chrome profile/extensions.
+4. Confirm 2SV SMS still arrives at **941-468-4783** when signing in from the PC.
+5. Clear only Amazon cookies / saved Amazon password in Chrome (old saved password often blocks login after reset).
+6. Until the PC is cleaned/trusted: use **Sandy’s iPad** for Amazon only.
