@@ -55,6 +55,7 @@
 ### Open / next steps
 - Prefer all recovery steps and account access from Sandy’s iPad, not the Windows laptop.
 - Diagnose Windows Chrome Amazon login failure (see troubleshooting below); treat PC as possibly still compromised.
+- Verify Amazon password with a fresh login on the iPad (Safari Private or Amazon app).
 - Configure skouba1@verizon.net on the iPad (AOL app preferred).
 - Optional: review Subscribe & Save / Household; confirm Login & security phone is 941-468-4783.
 - Ask Amazon for a case/reference number if still useful for the open recovery thread.
@@ -69,8 +70,10 @@
 3. Confirm on the **iPad** (already signed in): Account → Login & security → which email is listed; optionally use “Edit” password only if they need to set a known new one together.
 
 **Try next:**
-1. On the PC: amazon.com → sign-in → email **skouba100@gmail.com** → carefully type the **same new password** that works conceptually with the iPad session (or have Jody enter the password she set).
-2. Show password checkbox / type slowly; watch Caps Lock.
-3. If still invalid: from the **iPad**, change the Amazon password to a new known value, store it in a password manager or write it down once, then retry on the PC.
-4. Optional: try **Edge InPrivate** with the same email + password (rules out Chrome-only oddities).
-5. Until it works: use **Sandy’s iPad** for Amazon only.
+1. **Verify password on iPad with a fresh login** (before fighting the PC more):
+   - Best: open **Safari → Private** tab → amazon.com → sign in with **skouba100@gmail.com** + password (keeps existing Amazon app/session intact if it fails).
+   - Or: install/open the **Amazon** shopping app → sign out (or add/sign in) with the same email + password; have phone ready for 2SV SMS to **941-468-4783**.
+2. If that fresh iPad login **works**, the password is confirmed — retry the exact same email/password on the Windows PC (Caps Lock / typing).
+3. If fresh iPad login **fails** with invalid password, change the password from the still-signed-in Amazon session (Login & security), write down the new one, then retry.
+4. Optional on PC: **Edge InPrivate** with the verified email + password.
+5. Until PC works: use **Sandy’s iPad** for Amazon only.
