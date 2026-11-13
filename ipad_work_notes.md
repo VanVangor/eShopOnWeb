@@ -4,12 +4,15 @@
 
 - **People:** Sandy and Gary Kouba (in-laws); **Jody** (wife) working on this with us
 - **Issue:** Amazon account taken over by hackers
-- **Status:** Amazon reset the account; we are signed in with a **new password**
+- **Status:** Account reset + new password; **2-step verification enabled**
 - **Goal:** Help them reclaim / regain control of the account; remove unknown devices and lock down security
 
 ### Devices
 - Sandy has a **Windows laptop**.
 - Going forward we will use **Sandy’s iPad** (suspected less likely to get compromised than the laptop).
+
+### Contact (Sandy)
+- Mobile: **941-468-4783** (used for Amazon 2-step verification)
 
 ### Email addresses (Sandy)
 - skouba1@verizon.net — handled by **AOL** (Verizon mail moved to AOL)
@@ -27,13 +30,14 @@
 ### Progress
 - Jody got Amazon to reset the account; signed in with new password.
 - **Content & Devices checked:** only **Sandy’s iPad** is registered; other devices appear already removed.
+- **2-step verification enabled** using Sandy’s mobile **941-468-4783**.
 
 ### Review / remove Amazon devices
 - Done via Account → Content & Devices → Devices.
 - Result: only Sandy’s iPad remains; unknowns already gone (likely cleared during Amazon’s reset).
 
 ### Still lock down
-1. Enable **2-step verification** under Account → **Login & security**
+1. ~~Enable 2-step verification~~ — done (SMS to 941-468-4783)
 2. Review: payment methods, addresses, email/phone on Login & security, subscribe & save, Amazon Household
 
 ### Notes
@@ -41,7 +45,7 @@
 - Track next steps, Amazon contacts/case details, and any actions taken below as we go.
 
 ### Open / next steps
-- Turn on 2-step verification (prefer SMS/authenticator to a phone/email they control).
+- Review payment methods, addresses, and Login & security email/phone.
 - Prefer all recovery steps and account access from Sandy’s iPad, not the Windows laptop.
 - Configure skouba1@verizon.net on the iPad (AOL app preferred).
 - Ask Amazon for a case/reference number if still useful for the open recovery thread.
