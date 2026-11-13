@@ -11,6 +11,10 @@
 - Sandy has a **Windows laptop**.
 - Going forward we will use **Sandy’s iPad** (suspected less likely to get compromised than the laptop).
 
+### Email addresses (Sandy)
+- skouba1@verizon.net
+- skouba100@gmail.com
+
 ### Amazon case / reference
 - Sandy does **not** have a case # or reference #.
 
