@@ -11,7 +11,7 @@
 ### Devices
 - Sandy has a **Windows laptop**.
 - Going forward we will use **Sandy’s iPad** (suspected less likely to get compromised than the laptop).
-- **Problem:** Unable to authenticate to Amazon in **Chrome on Sandy’s Windows PC** (details of error TBD). Prefer not to weaken 2SV to make the PC work; keep using iPad until PC is trusted again.
+- **Problem:** Unable to authenticate to Amazon in **Chrome on Sandy’s Windows PC** — **“invalid password”** (also fails in Chrome Incognito). Prefer not to weaken 2SV; keep using iPad until resolved. Likely wrong email and/or not using the post-reset password.
 
 ### Contact (Sandy)
 - Mobile: **941-468-4783** (used for Amazon 2-step verification)
@@ -60,9 +60,17 @@
 - Ask Amazon for a case/reference number if still useful for the open recovery thread.
 
 ### Troubleshooting: Amazon login fails in Chrome on Windows PC
-1. **Do not** turn off 2SV or reuse old passwords to “fix” the PC.
-2. Note the exact failure: wrong password? 2SV code never accepted? blank/spin? “unusual activity”? redirected?
-3. On the PC, try **Edge InPrivate** (or Chrome Incognito with extensions disabled) to amazon.com — if Edge works and Chrome doesn’t, suspect Chrome profile/extensions.
-4. Confirm 2SV SMS still arrives at **941-468-4783** when signing in from the PC.
-5. Clear only Amazon cookies / saved Amazon password in Chrome (old saved password often blocks login after reset).
-6. Until the PC is cleaned/trusted: use **Sandy’s iPad** for Amazon only.
+- **Symptom:** “Invalid password” in Chrome and Chrome Incognito (so not just a normal-profile cookie/extension quirk).
+- **Do not** turn off 2SV to “fix” the PC.
+
+**Most likely causes (iPad login works, so the real password is fine):**
+1. Signing in with the **wrong email** — must be **skouba100@gmail.com**, not skouba1@verizon.net (unless that was ever the Amazon login).
+2. Typing the **old** password, or a mistype / Caps Lock / extra space when pasting.
+3. Confirm on the **iPad** (already signed in): Account → Login & security → which email is listed; optionally use “Edit” password only if they need to set a known new one together.
+
+**Try next:**
+1. On the PC: amazon.com → sign-in → email **skouba100@gmail.com** → carefully type the **same new password** that works conceptually with the iPad session (or have Jody enter the password she set).
+2. Show password checkbox / type slowly; watch Caps Lock.
+3. If still invalid: from the **iPad**, change the Amazon password to a new known value, store it in a password manager or write it down once, then retry on the PC.
+4. Optional: try **Edge InPrivate** with the same email + password (rules out Chrome-only oddities).
+5. Until it works: use **Sandy’s iPad** for Amazon only.
