@@ -7,9 +7,17 @@
 - **Status:** Working with Amazon to reclaim the account for ~3 weeks
 - **Goal:** Help them reclaim / regain control of the account
 
+### Devices
+- Sandy has a **Windows laptop**.
+- Going forward we will use **Sandy’s iPad** (suspected less likely to get compromised than the laptop).
+
+### Amazon case / reference
+- Sandy does **not** have a case # or reference #.
+
 ### Notes
 - New session started for this recovery work.
 - Track next steps, Amazon contacts/case details, and any actions taken below as we go.
 
 ### Open / next steps
-- _(to be filled as we gather details)_
+- Ask Amazon for a case/reference number on the next contact (or locate prior emails/chat transcripts that may contain one).
+- Prefer all recovery steps and account access from Sandy’s iPad, not the Windows laptop.
