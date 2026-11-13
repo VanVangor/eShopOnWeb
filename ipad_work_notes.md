@@ -26,24 +26,21 @@
 
 ### Progress
 - Jody got Amazon to reset the account; signed in with new password.
+- **Content & Devices checked:** only **Sandy’s iPad** is registered; other devices appear already removed.
 
-### Review / remove Amazon devices (in progress)
-On the iPad (Safari or Amazon app), while signed in:
+### Review / remove Amazon devices
+- Done via Account → Content & Devices → Devices.
+- Result: only Sandy’s iPad remains; unknowns already gone (likely cleared during Amazon’s reset).
 
-1. **Content & Devices (main place for registered devices)**
-   - Account → **Content & Devices** (or visit amazon.com/mycd)
-   - Open the **Devices** tab
-   - Select each unknown device → **Deregister** / remove
-2. **Also check:** Account → **Digital content and devices** / device management links if shown
-3. After removing unknowns: enable **2-step verification** under Account → **Login & security**
-4. Also review soon: payment methods, addresses, email/phone on Login & security, subscribe & save, Amazon Household
+### Still lock down
+1. Enable **2-step verification** under Account → **Login & security**
+2. Review: payment methods, addresses, email/phone on Login & security, subscribe & save, Amazon Household
 
 ### Notes
 - New session started for this recovery work.
 - Track next steps, Amazon contacts/case details, and any actions taken below as we go.
 
 ### Open / next steps
-- List devices under Content & Devices → Devices; deregister anything unknown.
 - Turn on 2-step verification (prefer SMS/authenticator to a phone/email they control).
 - Prefer all recovery steps and account access from Sandy’s iPad, not the Windows laptop.
 - Configure skouba1@verizon.net on the iPad (AOL app preferred).
